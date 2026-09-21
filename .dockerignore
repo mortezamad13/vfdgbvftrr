@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+*.lock
+.env
+.env.*
+!/.env.example
+data/
+logs/
+temp_media/
+deleted_message_backup/
+.git/

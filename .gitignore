@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+*.lock
+__pycache__/
+*.pyc
+data/
+logs/
+temp_media/
+deleted_message_backup/
+.railway/
